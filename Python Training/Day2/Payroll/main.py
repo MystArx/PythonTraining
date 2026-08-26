@@ -1,7 +1,6 @@
 import functions as f
 
 
-
 while True:
     ch=int(input("""1. Enter Employee Details
 2. Calculate Monthly Payroll
