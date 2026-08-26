@@ -90,7 +90,7 @@ def main():
         elif ch == 6:
             displayProjectsAlphabetically()
         elif ch == 7:
-            print("Exiting application. Thank you!")
+            print("Exiting")
             break
         else:
             print("Invalid Choice. Please try again.")

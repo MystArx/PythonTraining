@@ -71,7 +71,7 @@ def main():
         elif ch == 5:
             deleteMovie()
         elif ch == 6:
-            print("Thank you for using the Movie Collection Management System.")
+            print("Exiting")
             break
         else:
             print("Invalid Choice. Please try again.")

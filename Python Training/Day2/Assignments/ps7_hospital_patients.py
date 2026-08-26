@@ -212,7 +212,7 @@ def findHighestBillPatient():
         print("\nPatient with Highest Medical Bill:")
         print(f"Patient ID   : {highest_p['PatientId']}")
         print(f"Patient Name : {highest_p['PatientName']}")
-        print(f"Total Bill   : ₹{max_bill:.2f}")
+        print(f"Total Bill   : {max_bill:.2f}")
 
 def removeVisit():
     pid = int(input("Enter Patient ID : "))
