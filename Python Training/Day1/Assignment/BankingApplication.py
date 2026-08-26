@@ -5,7 +5,7 @@ def CreateAccount():
     opening_balance=float(input("Enter opening balance : "))
 
     if opening_balance<0:
-        print("INVALID INPUT!")
+        print("INVALID INPUT")
         opening_balance=0
 
     return account_number,customer_name,account_type,opening_balance
