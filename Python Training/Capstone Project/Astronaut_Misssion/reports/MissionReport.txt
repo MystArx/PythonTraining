@@ -1,0 +1,35 @@
+==================================
+MISSION REPORT
+==================================
+Mission ID     : 501
+Mission Name   : Moon-X
+Destination    : Moon
+Launch Date    : 2025-05-12
+Duration       : 30 Days
+Status         : Completed
+Assigned To    : Aryan Sharma (ID: 101)
+----------------------------------
+Mission ID     : 502
+Mission Name   : Mars-Alpha
+Destination    : Mars
+Launch Date    : 2026-09-01
+Duration       : 365 Days
+Status         : Active
+Assigned To    : Emma Watson (ID: 102)
+----------------------------------
+Mission ID     : 503
+Mission Name   : ISS Orbit 12
+Destination    : ISS
+Launch Date    : 2026-11-15
+Duration       : 180 Days
+Status         : Planned
+Assigned To    : David Miller (ID: 103)
+----------------------------------
+Mission ID     : 504
+Mission Name   : Europa Probe
+Destination    : Jupiter
+Launch Date    : 2027-03-20
+Duration       : 500 Days
+Status         : Planned
+Assigned To    : Elena Rostova (ID: 104)
+----------------------------------

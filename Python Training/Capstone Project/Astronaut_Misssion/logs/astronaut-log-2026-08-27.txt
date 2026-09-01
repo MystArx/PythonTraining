@@ -1,0 +1,2 @@
+2026-08-27 17:00:07 | INFO | Database Connected/Initialized Successfully (SpaceMissionDB)
+2026-08-27 17:00:07 | INFO | Tables 'Astronaut' and 'Mission' checked/created successfully.

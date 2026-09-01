@@ -1,0 +1,43 @@
+==================================
+ASTRONAUT REPORT
+==================================
+Astronaut ID : 101
+Name         : Aryan Sharma
+Age          : 32
+Country      : India
+Experience   : 6 Years
+Specialization: Engineer
+Status       : Active
+----------------------------------
+Astronaut ID : 102
+Name         : Emma Watson
+Age          : 35
+Country      : USA
+Experience   : 9 Years
+Specialization: Scientist
+Status       : Active
+----------------------------------
+Astronaut ID : 103
+Name         : David Miller
+Age          : 40
+Country      : UK
+Experience   : 12 Years
+Specialization: Pilot
+Status       : Training
+----------------------------------
+Astronaut ID : 104
+Name         : Elena Rostova
+Age          : 38
+Country      : Russia
+Experience   : 10 Years
+Specialization: Doctor
+Status       : Active
+----------------------------------
+Astronaut ID : 105
+Name         : Kenji Sato
+Age          : 45
+Country      : Japan
+Experience   : 14 Years
+Specialization: Engineer
+Status       : Retired
+----------------------------------

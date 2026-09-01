@@ -1,0 +1,55 @@
+==================================================
+       EMPLOYEE PROJECT ALLOCATION REPORT        
+==================================================
+
+Employee ID: 101
+Employee Name: Amit Sharma
+Skill: Python
+Experience: 3.5 Years
+Project: Banking Automation
+Client: ABC Bank
+Role: Developer
+Allocation: 100%
+==================================================
+
+Employee ID: 102
+Employee Name: Priya Verma
+Skill: Java
+Experience: 5.0 Years
+Project: E-Commerce Suite
+Client: Global Retails
+Role: Lead
+Allocation: 100%
+==================================================
+
+Employee ID: 103
+Employee Name: Rohan Gupta
+Skill: Python
+Experience: 2.0 Years
+Allocated Projects: None
+==================================================
+
+Employee ID: 104
+Employee Name: Sneha Reddy
+Skill: React
+Experience: 4.0 Years
+Project: Healthcare Portal
+Client: HealthCare Inc
+Role: Developer
+Allocation: 75%
+==================================================
+
+Employee ID: 105
+Employee Name: Ravi Kumar
+Skill: Python
+Experience: 6.0 Years
+Allocated Projects: None
+==================================================
+
+Employee ID: 106
+Employee Name: Test Student
+Skill: Python
+Experience: 2.0 Years
+Allocated Projects: None
+==================================================
+

@@ -1,0 +1,8 @@
+2026-08-27 14:23:50,869 - INFO - Data Recieved : 104,Percy,18,CHB,99,NJ,Active
+2026-08-27 14:28:59,253 - INFO - Data Recieved : 105,Aditya,21,BT,99,Noida,Active
+2026-08-27 14:28:59,264 - INFO - Connection Successful
+2026-08-27 14:28:59,286 - INFO - Record entered : (105, 'Aditya', 21, 'BT', 99, 'Noida', 'Active')
+2026-08-27 14:29:01,704 - INFO - Connection Successful
+2026-08-27 14:29:01,704 - INFO - Data displayed
+2026-08-27 14:29:12,637 - INFO - Connection Successful
+2026-08-27 14:29:18,972 - INFO - Connection Successful

@@ -1,0 +1,37 @@
+2026-08-29 02:39:14 | INFO | Database Connected/Initialized Successfully (SpaceMissionDB)
+2026-08-29 02:39:14 | INFO | Tables 'Astronaut' and 'Mission' checked/created successfully.
+2026-08-29 02:39:14 | WARNING | Deletion blocked for Astronaut 101: Assigned to 1 mission(s).
+2026-08-29 02:39:14 | INFO | Viewed Missions with Astronaut Details (JOIN operation).
+2026-08-29 02:39:14 | INFO | Displayed Space Mission Dashboard.
+2026-08-29 02:39:14 | INFO | Generated Astronaut Report: /home/linarx/Coforge Training/Python Training/Capstone Project/Astronaut_Misssion/reports/AstronautReport.txt
+2026-08-29 02:39:14 | INFO | Generated Mission Report: /home/linarx/Coforge Training/Python Training/Capstone Project/Astronaut_Misssion/reports/MissionReport.txt
+2026-08-29 02:41:21 | INFO | Application Started
+2026-08-29 02:41:21 | INFO | Database Connected/Initialized Successfully (SpaceMissionDB)
+2026-08-29 02:41:21 | INFO | Tables 'Astronaut' and 'Mission' checked/created successfully.
+2026-08-29 02:41:28 | INFO | Displayed All Astronauts (5 record(s)).
+2026-08-29 02:48:19 | INFO | Filtered Astronauts: 2 record(s) matched.
+2026-08-29 02:48:44 | INFO | Viewed Missions with Astronaut Details (JOIN operation).
+2026-08-29 02:48:57 | INFO | Displayed Space Mission Dashboard.
+2026-08-29 02:52:20 | WARNING | Duplicate Astronaut ID attempt: 101
+2026-08-29 02:52:33 | WARNING | Deletion blocked for Astronaut 101: Assigned to 1 mission(s).
+2026-08-29 02:52:36 | WARNING | Duplicate Astronaut ID attempt: 101
+2026-08-29 02:52:41 | WARNING | Menu choice out of range: 108
+2026-08-29 02:52:51 | WARNING | Astronaut 108 Not Found
+2026-08-29 02:53:13 | INFO | Astronaut 108 Added Successfully.
+2026-08-29 02:53:31 | INFO | Displayed All Astronauts (6 record(s)).
+2026-08-29 02:53:41 | WARNING | Deletion blocked for Astronaut 101: Assigned to 1 mission(s).
+2026-08-29 02:53:59 | WARNING | Mission 101 Not Found
+2026-08-29 02:54:04 | INFO | Displayed All Missions (4 record(s)).
+2026-08-29 02:54:17 | INFO | Viewed Missions of Astronaut 101: Found 1 record(s).
+2026-08-29 02:54:25 | INFO | Mission 501 Deleted Successfully.
+2026-08-29 02:54:38 | INFO | Astronaut 101 Deleted Successfully.
+2026-08-29 02:54:48 | INFO | Viewed Missions of Astronaut 102: Found 1 record(s).
+2026-08-29 02:54:58 | INFO | Mission 502 Deleted Successfully.
+2026-08-29 02:55:08 | INFO | Astronaut 102 Deleted Successfully.
+2026-08-29 02:55:15 | WARNING | Astronaut 102 Not Found
+2026-08-29 02:55:36 | INFO | Astronaut 102 Added Successfully.
+2026-08-29 02:55:48 | INFO | Viewed Missions of Astronaut 103: Found 1 record(s).
+2026-08-29 02:55:57 | INFO | Mission 503 Deleted Successfully.
+2026-08-29 02:56:00 | WARNING | Astronaut 101 Not Found
+2026-08-29 02:56:29 | INFO | Astronaut 101 Added Successfully.
+2026-08-29 02:56:34 | INFO | Displayed All Astronauts (6 record(s)).
