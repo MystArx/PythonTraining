@@ -3,10 +3,10 @@ from db_connection import LocalSession
 from models import Employee
 from schemas import EmployeeCreate
 
-def create_employee(employee : EmployeeCreate):
-    session=LocalSession()
+def create_employee(employee: EmployeeCreate):
+    session = LocalSession()
     try:
-        new_employee=Employee(
+        new_employee = Employee(
             employee_name=employee.employee_name,
             employee_email=employee.employee_email,
             employee_department=employee.employee_department,
@@ -19,4 +19,6 @@ def create_employee(employee : EmployeeCreate):
 
     except Exception as e:
         session.rollback()
-        raise  HTTPException(status_code=500)
+        raise HTTPException(status_code=500, detail=str(e))
+    finally:
+        session.close()
