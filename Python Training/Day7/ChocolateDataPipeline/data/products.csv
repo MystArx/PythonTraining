@@ -1,0 +1,105 @@
+product_id,product_name,category,price
+P101,Dairy Milk,Chocolate,50
+P102,5 Star,Chocolate,20
+P103,Silk,Premium Chocolate,90
+P104,Perk,Wafer Chocolate,10
+P105,Gems,Chocolate,30
+P106,Munch,Wafer Chocolate,20
+P107,KitKat,Wafer Chocolate,30
+P108,Snickers,Chocolate Bar,50
+P109,Mars,Chocolate Bar,55
+P110,Bounty,Chocolate Bar,60
+P111,Twix,Chocolate Bar,50
+P112,Milky Bar,White Chocolate,40
+P113,Galaxy,Chocolate,70
+P114,Ferrero Rocher,Premium Chocolate,150
+P115,Toblerone,Premium Chocolate,180
+P116,Temptations,Premium Chocolate,120
+P117,Amul Dark Chocolate,Dark Chocolate,100
+P118,Amul Milk Chocolate,Chocolate,80
+P119,Nestle Classic,Chocolate,50
+P120,Bar One,Chocolate Bar,25
+P121,Crispello,Chocolate,35
+P122,Fuse,Chocolate Bar,40
+P123,Kinder Joy,Chocolate,50
+P124,Kinder Bueno,Wafer Chocolate,90
+P125,Lindt Classic,Premium Chocolate,200
+P126,Lindt Dark,Dark Chocolate,220
+P127,Hersheys Milk Chocolate,Chocolate,120
+P128,Hersheys Kisses,Chocolate,150
+P129,Choco Pie,Chocolate Snack,40
+P130,Dark Fantasy,Chocolate Biscuit,40
+P131,Oreo Chocolate,Biscuit,30
+P132,Bourbon,Biscuit,20
+P133,Hide and Seek,Biscuit,30
+P134,Jim Jam,Biscuit,25
+P135,Good Day Choco Chip,Biscuit,30
+P136,Unibic Choco Chip,Cookie,50
+P137,Milano,Cookie,80
+P138,Happy Happy,Biscuit,20
+P139,Little Hearts,Biscuit,20
+P140,Choco Fills,Cookie,40
+P141,Eclairs,Candy,10
+P142,Kismi,Candy,10
+P143,Melody,Candy,10
+P144,Coffee Bite,Candy,10
+P145,Alpenliebe,Candy,10
+P146,Mentos,Candy,20
+P147,Center Fresh,Gum,10
+P148,Center Fruit,Gum,10
+P149,Happydent,Gum,20
+P150,Boomer,Gum,10
+P151,Maggi Noodles,Instant Noodles,15
+P152,Yippee Noodles,Instant Noodles,15
+P153,Top Ramen,Instant Noodles,20
+P154,Wai Wai,Instant Noodles,20
+P155,Kurkure,Snacks,20
+P156,Lays Classic,Chips,20
+P157,Lays Magic Masala,Chips,20
+P158,Bingo Mad Angles,Chips,20
+P159,Doritos,Chips,50
+P160,Uncle Chips,Chips,20
+P161,Haldiram Aloo Bhujia,Namkeen,50
+P162,Haldiram Bhujia,Namkeen,50
+P163,Haldiram Mixture,Namkeen,60
+P164,Bikaneri Bhujia,Namkeen,50
+P165,Navratan Mix,Namkeen,60
+P166,Coca Cola,Soft Drink,40
+P167,Pepsi,Soft Drink,40
+P168,Sprite,Soft Drink,40
+P169,Fanta,Soft Drink,40
+P170,Mountain Dew,Soft Drink,40
+P171,Thums Up,Soft Drink,40
+P172,Limca,Soft Drink,40
+P173,Maaza,Mango Drink,50
+P174,Slice,Mango Drink,50
+P175,Frooti,Mango Drink,30
+P176,Real Juice,Fruit Juice,100
+P177,Tropicana,Fruit Juice,110
+P178,Red Bull,Energy Drink,125
+P179,Monster,Energy Drink,130
+P180,Sting,Energy Drink,50
+P181,Bisleri,Water,20
+P182,Aquafina,Water,20
+P183,Kinley,Water,20
+P184,Amul Milk,Dairy,30
+P185,Mother Dairy Milk,Dairy,32
+P186,Amul Butter,Dairy,60
+P187,Amul Cheese,Dairy,120
+P188,Amul Lassi,Dairy,25
+P189,Amul Buttermilk,Dairy,20
+P190,Mother Dairy Curd,Dairy,40
+P191,Paneer,Dairy,90
+P192,Bread,Bakery,40
+P193,Brown Bread,Bakery,50
+P194,Burger Bun,Bakery,40
+P195,Cup Cake,Bakery,30
+P101,Dairy Milk,Chocolate,50
+P102,5 Star,Chocolate,20
+P110,Bounty,Chocolate Bar,60
+P125,Lindt Classic,Premium Chocolate,200
+P196,,Chocolate,50
+,Milky Chocolate,Chocolate,60
+P198,Dark Chocolate,,100
+P199,Chocolate Cookies,Biscuit,
+P200,Premium Bar,Chocolate,-50
